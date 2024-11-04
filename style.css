@@ -1,3 +1,9 @@
 Body {
   background-color= blue
 }
+
+
+/* mouse over link */
+a:hover {
+  background-color: hotpink;
+}
