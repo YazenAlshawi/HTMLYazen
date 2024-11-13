@@ -13,4 +13,33 @@ a:hover {
 h1 {
   color:white;
   font-family: Georgia, serif;
+  font-size: 40px;
   
+h2 {
+"Trebuchet MS", Helvetica, sans-serif;
+color:black;
+font-size: 32px;
+
+}
+
+
+h3 {
+"Trebuchet MS", Helvetica, sans-serif;
+color:black;
+font-size: 28px;
+
+
+}
+
+
+
+p { 
+font-family: Georgia, serif;
+  color: black;
+  margin: 20px;
+  
+
+
+
+
+}
